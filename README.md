@@ -1,2 +1,2 @@
 # MyRainmeterSkins
- Rainmeter skins written that I wrote
+ Rainmeter skins that I wrote
