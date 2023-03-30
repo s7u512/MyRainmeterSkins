@@ -1,7 +1,7 @@
 # My Rainmeter Skins
 
 These are a collection of very simple [Rainmeter](https://www.rainmeter.net/) [skins](https://docs.rainmeter.net/manual/skins/) I wrote for my personal use. 
-I am releasing them here under the [CC-by-SA 4.0 license](https://github.com/s7u512/MyRainmeterSkins/blob/main/License.md).
+I am releasing them here under the [CC-by-NC-SA 4.0 license](https://github.com/s7u512/MyRainmeterSkins/blob/main/License.md).
 
 ## Usage
 
